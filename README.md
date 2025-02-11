@@ -146,4 +146,4 @@ Please read [Contributing Guidelines](./CONTRIBUTING.md) for information on how 
 
 ## Owner
 
-[Apoorv Taneja](https://github.com/plxity) <img src="https://img.shields.io/twitter/follow/apoorv_taneja?label=Follow&style=social" />
+kajal singh
